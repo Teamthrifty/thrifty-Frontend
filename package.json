@@ -1,0 +1,11 @@
+{
+	"dependencies": {
+		"@tanstack/react-query": "^5.90.2",
+		"next-themes": "^0.4.6",
+		"zustand": "^5.0.8"
+	},
+	"devDependencies": {
+		"eslint-config-prettier": "^10.1.8",
+		"prettier": "^3.6.2"
+	}
+}
